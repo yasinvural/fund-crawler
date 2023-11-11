@@ -1,6 +1,6 @@
 # TEFAS Web Crawler Project
 
-This is a simple web crawler project designed for a side project. The crawler extracts data from the [TEFAS (Turkish Mutual Fund Information Platform)](https://www.tefas.gov.tr/) website, focusing on Turkish funds for financial analysis.
+This is a simple web crawler project designed for a side project. The crawler extracts data from the [TEFAS](https://www.tefas.gov.tr/) website, focusing on Turkish funds for financial analysis.
 
 ## Features
 
